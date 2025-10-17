@@ -31,7 +31,7 @@ jobs:
         run: flutter pub get
 
       - name: Ensure platform folders
-        run: flutter create.
+        run: flutter create .
 
       - name: Enable Windows desktop
         run: flutter config --enable-windows-desktop
