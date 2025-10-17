@@ -43,5 +43,5 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: windows-release-folder
-          path: sound_model/build/windows/x64/runner/Release/
-          path: build/windows/x64/runner/Release/
+          path: shingora_web/build/windows/x64/runner/Release/
+    
